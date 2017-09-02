@@ -1,4 +1,4 @@
-9GAG-Android (deprecated)
+﻿9GAG-Android (deprecated)
 =====================
 
 ## Android学习之路
@@ -55,7 +55,7 @@ Gradle version 2.2.1
 License
 ============
 
-    Copyright 2014 stormzhang
+    Copyright 2014 stormzhang[fork from stromzhang in 20170902]
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -68,3 +68,4 @@ License
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+
